@@ -1,0 +1,13 @@
+name = "BSL Shaders - Classic"
+filename = "BSLClassic_v8.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pgzM6RBY/versions/D5Nh9LUn/BSLClassic_v8.3.zip"
+hash-format = "sha1"
+hash = "c509f591cfe365dc065d2f24f33f0e67d782e40a"
+
+[update]
+[update.modrinth]
+mod-id = "pgzM6RBY"
+version = "D5Nh9LUn"

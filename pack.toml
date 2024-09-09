@@ -1,0 +1,17 @@
+name = "MineSquid"
+author = "Jack \"GiggleSquid\" Connors"
+version = "0.0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d198430ea0edc760866529ea4de6b19f3d477a4da8260d0942fb83d4681a0c65"
+
+[versions]
+fabric = "0.16.4"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.x"]
+datapack-folder = "config/paxi/datapacks"

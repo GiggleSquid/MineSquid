@@ -1,0 +1,13 @@
+name = "Default HD"
+filename = "Default HD Alpha 1.7.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orfTV6nk/versions/4TdgR6mv/Default%20HD%20Alpha%201.7.4.zip"
+hash-format = "sha1"
+hash = "61f760fa71faa27d153d5a34693a4171f40d729b"
+
+[update]
+[update.modrinth]
+mod-id = "orfTV6nk"
+version = "4TdgR6mv"

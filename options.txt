@@ -1,0 +1,17 @@
+enableVsync:false
+fullscreen:false
+snooperEnabled:false
+darkMojangStudiosBackground:true
+fov:0.5
+renderDistance:12
+simulationDistance:5
+guiScale:3
+maxFps:260
+graphicsMode:0
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+syncChunkWrites:false
+soundCategory_master:0.4
+soundCategory_music:0.1

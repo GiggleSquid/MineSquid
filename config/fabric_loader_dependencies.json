@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "distanthorizons": {
+      "-breaks": {
+        "iris": ""
+      }
+    },
+    "create": {
+      "-breaks": {
+        "sound_physics_remastered": ""
+      }
+    },
+    "chipped": {
+      "-depends": {
+        "athena": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+name = "Fresh Animations - Extensions"
+filename = "FA+Quivers-v1.1.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/JvU72euu/FA%2BQuivers-v1.1.zip"
+hash-format = "sha1"
+hash = "d5e4b8a14dbf176d75f37e7e4e16a9afe2e9732a"
+
+[update]
+[update.modrinth]
+mod-id = "YAVTU8mK"
+version = "JvU72euu"
